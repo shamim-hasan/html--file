@@ -1,0 +1,53 @@
+ul{
+    list-style-type: none;
+    background:tomato;
+    overflow: hidden;
+    padding: 20px;
+   
+}
+
+ul li{
+    vertical-align: middle;
+    padding-right: 10px;
+     display: inline-block;
+    border-left:1px solid whitesmoke;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+    display: inline-block;
+    text-transform:uppercase;
+    margin-left: 5px;
+
+} *{
+    margin: 0;
+}
+img{
+    height:auto !important;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.firstpart{
+    float: left;
+    width:50%;
+    margin-left: 15px;
+}
+.firstpart p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 23px;
+}
+.lastpart{
+    float: right;
+    width: 48%;
+}
+.lastpart .baby{
+    height: auto;
+    width: 648px;
+    height: 300px!important;
+}
+   
